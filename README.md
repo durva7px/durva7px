@@ -2,7 +2,8 @@
 - 👀 I’m interested in 👩🏻‍💻 Software Development, 🤖 Machine Learning, and 📈 Data Science  
 - 🌱 I’m currently learning `Advanced Web Development` and `AI technologies` 
 - 💞️ I’m looking to collaborate on coding challenges and hackathons!
-- 🔗 Links : [Gmail](durvadeshpande@gmail.com) | [linkedIn](https://www.linkedin.com/in/durva-d-803043201/) | [Leetcode](https://leetcode.com/u/dpKniQ3w1x/)
+- 🔗 Links : [linkedIn](https://www.linkedin.com/in/durva-d-803043201/) | [Leetcode](https://leetcode.com/u/dpKniQ3w1x/)
+- 📧 Contact me durvadeshpande@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a Part time UI/UX Designer and Brand Strategist ✨
 
