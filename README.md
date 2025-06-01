@@ -1,15 +1,24 @@
 <h1 align="center">Hi 👋, I'm Durva</h1>
-<h3 align="center">A passionate Software Developer from India! ✨</h3>
+<h3 align="center">A passionate Computer Science Engineering student specialising in Data Science! ✨ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durva7px&label=Profile%20views&color=0e75b6&style=flat" alt="durva7px" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durva7px" alt="durva7px" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Web Development and AI technologies**
+- 👨‍💻 Focused on **DSA, Full-stack development, and System Design**
+  
+- 💡 I love building side projects, solving algorithmic challenges, and exploring emerging tech
 
+## ⚙️ Tech Interests
+- 🌩️ Currently learning the basics of **Cloud Platforms** like AWS and Firebase
+- 🛠️ Gaining hands-on experience with **DevOps tools** like Docker and CI/CD pipelines
+- 🤖 Exploring **AI/ML**, focusing on supervised learning and model deployment
+- 📈 Interested in designing **scalable systems** for real-world applications
+  
 - 👯 I’m looking to collaborate on **Open Source Projects 📂**
 
 - 📫 How to reach me **durvadeshpande@gmail.com**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
