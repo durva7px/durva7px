@@ -13,7 +13,6 @@
 - 🌩️ Currently learning the basics of **Cloud Platforms** like AWS and Firebase
 - 🛠️ Gaining hands-on experience with **DevOps tools** like Docker and CI/CD pipelines
 - 🤖 Exploring **AI/ML**, focusing on supervised learning and model deployment
-- 📈 Interested in designing **scalable systems** for real-world applications
   
 - 👯 I’m looking to collaborate on **Open Source Projects 📂**
 
