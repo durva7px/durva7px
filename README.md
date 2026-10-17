@@ -1,22 +1,35 @@
-<h1 align="center">Hi 👋, I'm Durva</h1>
-<h3 align="center">A passionate Computer Science Engineering student specialising in Data Science! ✨ </h3>
+### 👩‍💻 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durva7px&label=Profile%20views&color=0e75b6&style=flat" alt="durva7px" /> </p>
+- 🎓 B.Tech in Computer Science & Engineering (Data Science), Class of 2026.
+- 🚀 Interested in building end-to-end products that combine software engineering, AI, and thoughtful design.
+- 🧠 Currently focused on backend engineering, AI integrations, system design, and cloud technologies.
+- 💼 Open to **Software Engineering, Backend, Full-Stack, and AI Engineering opportunities**.
+- 🤝 Happy to collaborate on interesting products, startups, and open-source projects.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durva7px" alt="durva7px" /></a> </p>
+### 🛠️ What I'm Building
 
-- 👨‍💻 Focused on **DSA, Full-stack development, and System Design**
-  
-- 💡 I love building side projects, solving algorithmic challenges, and exploring emerging tech
+| Project | What it's about | Tech |
+|---------|-----------------|------|
+| **Notion Auto-Language Detection** | Developing an intelligent Notion integration that automatically detects programming languages in code blocks. | JavaScript, Node.js, Notion API, OAuth |
+| **Productivity Intelligence Platform** | Exploring how personal activity data can be transformed into meaningful productivity insights and actionable recommendations. | Python, Data Analytics, AI |
+| **Campus Utility Platform** | Designing a student-centric platform for campus errands, resource sharing, and attendance insights. | React Native, Backend APIs |
 
-## ⚙️ Tech Interests
-- 🌩️ Currently learning the basics of **Cloud Platforms** like AWS and Firebase
-- 🛠️ Gaining hands-on experience with **DevOps tools** like Docker and CI/CD pipelines
-- 🤖 Exploring **AI/ML**, focusing on supervised learning and model deployment
-  
-- 👯 I’m looking to collaborate on **Open Source Projects 📂**
+*Building in public. More updates and repositories coming soon!*
 
-- 📫 How to reach me **durvadeshpande@gmail.com**
+### 🌱 Currently Exploring
+
+- Building AI-powered applications with practical, real-world use cases.
+- Backend architecture, APIs, and scalable system design.
+- Cloud deployment and CI/CD workflows.
+- AI agents, automation, and developer productivity tools.
+
+### 🤝 Let's Connect
+
+I'm actively exploring **new-grad and early-career software engineering roles**, internships, and opportunities to work with teams building meaningful technology.
+
+Also open to collaborating with developers, designers, and founders on interesting ideas.
+
+- 📫 How to reach me **durvadeshpande.dev@gmail.com**
 ---
 
 <h3 align="left">Connect with me:</h3>
