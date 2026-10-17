@@ -6,10 +6,9 @@
   Building intelligent, user-centric software — from idea and design to production.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=durva7px&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=durva7px&label=Profile%20views&color=0e75b6&style=flat" alt="durva7px" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durva7px" alt="durva7px" /></a> </p>
 ---
 
 ### 👩‍💻 About Me
