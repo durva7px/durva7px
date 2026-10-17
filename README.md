@@ -19,14 +19,6 @@
 - 💼 Open to **Software Engineering, Backend, Full-Stack, and AI Engineering opportunities**.
 - 🤝 Happy to collaborate on interesting products, startups, and open-source projects.
 
-### 🛠️ What I'm Building
-
-| Project | What it's about | Tech |
-|---------|-----------------|------|
-| **Notion Auto-Language Detection** | Developing an intelligent Notion integration that automatically detects programming languages in code blocks. | JavaScript, Node.js, Notion API, OAuth |
-| **Productivity Intelligence Platform** | Exploring how personal activity data can be transformed into meaningful productivity insights and actionable recommendations. | Python, Data Analytics, AI |
-| **Campus Utility Platform** | Designing a student-centric platform for campus errands, resource sharing, and attendance insights. | React Native, Backend APIs |
-
 *Building in public. More updates and repositories coming soon!*
 
 ### 🌱 Currently Exploring
