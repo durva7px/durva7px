@@ -1,3 +1,17 @@
+<h1 align="center">Hey there, I'm Durva! 👋</h1>
+
+<h3 align="center">Software Engineer | Full-Stack Development • AI • Data</h3>
+
+<p align="center">
+  Building intelligent, user-centric software — from idea and design to production.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=durva7px&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (Data Science), Class of 2026.
