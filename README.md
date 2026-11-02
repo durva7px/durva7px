@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer, working on GenAI Solutions and AI-first Product Development</h3>
 
 <p align="center">
-  Building intelligent, user-centric software — from idea → design → production.
+  Building intelligent, user-centric software; from idea → design → production.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durva7px&label=Profile%20views&color=0e75b6&style=flat" alt="durva7px" /> </p>
@@ -11,14 +11,13 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durva7px" alt="durva7px" /></a> </p> -->
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 I am a B.Tech in Computer Science & Engineering (Data Science) graduate, Class of 2026. 
 
 I love building end-to-end products that combine software engineering, AI, and thoughtful design. Most of my projects are inspired from problems I face personally; one thing I know is that if it's a problem for me, then it definetely is a problem for someone else too. No matter how trivial the scope, I love putting my engineering skills into solving cool and niche problems. 
 
 > Currently focused on backend engineering, GenAI integrations, system design, and cloud technologies. 👾
-
 
 ✔️ Open to **Software Engineering, Backend, Full-Stack, and AI Engineering roles**. 
 
@@ -33,11 +32,11 @@ Happy to collaborate on interesting products, startups, and open-source projects
 - Cloud deployment and CI/CD workflows.
 - AI agents, automation, and developer productivity tools. -->
 
-```
-📧 Email: durvadeshpande.dev@gmail.com
-👤 LinkedIn: https://www.linkedin.com/in/durva-d-803043201/
-⚽ Dribbble: https://dribbble.com/durva7px
-```
+---
+### 👀Fun facts about me: 
+- I'm a great engineer, but I'm also a world-class designer. In fact my 1st ever internship was with the University Grant's Commision (Ministry of Education) as a Graphic Designer. 
+- I co-founded a startup in college, where I worked on it's brand indenity, packaging and product design from scratch.
+- I can also play crazyyy guitar :) 
 
 ---
 
