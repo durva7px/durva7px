@@ -34,7 +34,7 @@ Happy to collaborate on interesting products, startups, and open-source projects
 
 ---
 ### 👀Fun facts about me: 
-- I'm a great engineer, but I'm also a world-class designer. In fact my 1st ever internship was with the University Grant's Commision (Ministry of Education) as a Graphic Designer. 
+- I'm a great engineer, but I'm also a world-class designer. In fact my 1st ever internship was with the University Grants Commision (Ministry of Education) as a Graphic Designer. 
 - I co-founded a startup in college, where I worked on it's brand indenity, packaging and product design from scratch.
 - I can also play crazyyy guitar :) 
 
